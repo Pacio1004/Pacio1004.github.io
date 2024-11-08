@@ -1,5 +1,10 @@
+nav
+{
+    display:flex;
+}
 nav a
 {
+    
     display:none;
     border: 3 px,solid,black;
 
