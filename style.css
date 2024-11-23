@@ -32,12 +32,13 @@ nav
 nav a
 {
     transition: color 500ms;
-    text-shadow: 5px 5px 10px green;
+    transition: text-shadow 500ms;
 }
 nav a:hover
 {
     
     color: greenyellow;
+    text-shadow: 5px 5px 10px green;
 }
 main
 {
